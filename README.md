@@ -1,1 +1,1 @@
-# Mcp-task-automation
+# Task-automation
